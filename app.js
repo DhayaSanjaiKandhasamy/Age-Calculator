@@ -33,7 +33,7 @@ function calculation() {
     alert(':) Hey you not yet land into the world!!');
     return;
   }
-  if (current.Date === birth.date && current.month === current.month) {
+  if (current.date === birth.date && current.month === birth.month) {
     alert('Im wishing you a very Happiest Bornday');
   }
   if (current.year >= birth.year) {
