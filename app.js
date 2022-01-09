@@ -1,10 +1,10 @@
-// const calculate = document.getElementById('calculate');
-// const testYear = document.getElementById('text-year');
-// const testMonth = document.getElementById('text-month');
-// const testDate = document.getElementById('text-date');
-// let months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-// const currentDayDateYear = new Date();
-// let current = {
+const calculate = document.getElementById('calculate');
+const testYear = document.getElementById('text-year');
+const testMonth = document.getElementById('text-month');
+const testDate = document.getElementById('text-date');
+let months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+const currentDayDateYear = new Date();
+let current = {
 //   year: currentDayDateYear.getFullYear(),
 //   month: currentDayDateYear.getMonth() + 1,
 //   date: currentDayDateYear.getDate(),
